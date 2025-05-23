@@ -2,9 +2,7 @@
 I conducted network analysis on GitHub social interactions using Python (NetworkX) to uncover key influencers, collaboration patterns, and community structures, and documented insights and visualizations to support developer network growth strategies.
 
 # Table of content
-- [Introduction](https://github.com/Ehinmetan/Network-Analysis-of-GitHub-Developer-Collaboration/edit/main/README.md#introduction)
-
-  
+- 
 # Introduction
 
 Collaboration serves as the foundation of open-source development, and social networks play a crucial role in connecting developers, facilitating knowledge-sharing, and fostering innovation. GitHub, one of the largest platforms for software development, provides a unique opportunity to study these interactions through its vast
