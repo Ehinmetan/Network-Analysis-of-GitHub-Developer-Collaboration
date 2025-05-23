@@ -38,3 +38,43 @@ developers based on their area of specialization.
 - developer_id_1: The ID of the first developer in the interaction.
 
 - developer_id_2: The ID of the second developer in the interaction.
+  
+- weight: The weight of the interaction, indicating the strength or frequency of the collaboration between the
+developers.
+### musae_git_target.csv:
+- developer_id: The unique identifier for each developer.
+  
+- ml_target: A binary attribute that categorizes each developer as a machine learning (ml_target = 1) or web developer
+(ml_target = 0).
+
+## Network Structure
+
+- Nodes (Developers): Represents the total number of developers in the network, with each node symbolizing an
+individual developer.
+
+- Edges (Connections): Represents the total number of interactions or collaborations between developers, where each
+edge signifies a connection between two developers.
+
+- Graph Type (Undirected): Indicates that the network is undirected, meaning the relationships between developers
+are mutual, with no specific direction of interaction (e.g., both developers are considered as collaborators).
+
+# Methodology
+
+- Data Preprocessing: Checked for duplicates, handled missing values, and ensured data consistency for analysis.
+### Tools Used
+- Python was used for analysis with the following libraries:
+- Pandas: Data manipulation and cleaning.
+- NetworkX: Network analysis and centrality calculations.
+- Matplotlib: Visualization of network graphs.
+- NumPy: Numerical computations.
+- Random: Data simulation.
+- Collections (Counter): Frequency-based analysis.
+
+# Findings and Analysis
+
+**Analyze the Overall Structure of the GitHub Developer Network** :
+A subgraph of 100 developers was plotted to visualize developer interactions clearly. The spring layout algorithm was used to improve the graph's interpretability. The GitHub network shows high unevenness,with some developers having many collaborations while others have few or no connections.
+![netw 1](https://github.com/user-attachments/assets/fe21ce1b-f80d-4872-9d3d-c7c02a64873d)
+
+**Insight:** Since the full GitHub network is too large, a smaller sample of 100 developers is visualized to provide a clearer view of individual  connections and relationships. 
+
