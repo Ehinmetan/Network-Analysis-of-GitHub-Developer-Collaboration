@@ -6,6 +6,8 @@ I conducted network analysis on GitHub social interactions using Python (Network
 
 - [Obejectives](https://github.com/Ehinmetan/Network-Analysis-of-GitHub-Developer-Collaboration/blob/main/README.md#objectives)
 
+- [Data Overview](https://github.com/Ehinmetan/Network-Analysis-of-GitHub-Developer-Collaboration/blob/main/README.md#dataset-overview)
+
 - 
 # Introduction
 
