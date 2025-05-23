@@ -16,7 +16,10 @@ I conducted network analysis on GitHub social interactions using Python (Network
 
 - [Discussion](https://github.com/Ehinmetan/Network-Analysis-of-GitHub-Developer-Collaboration/blob/main/README.md#discussion)
 
-- [Implication](https://github.com/Ehinmetan/Network-Analysis-of-GitHub-Developer-Collaboration/blob/main/README.md#implication)
+- [Implication](https://github.com/Ehinmetan/Network-Analysis-of-GitHub-Developer-Collaboration/blob/main/README.md#implication
+
+- [Conclusion](https://github.com/Ehinmetan/Network-Analysis-of-GitHub-Developer-Collaboration/blob/main/README.md#conclusion)
+  
 # Introduction
 
 Collaboration serves as the foundation of open-source development, and social networks play a crucial role in connecting developers, facilitating knowledge-sharing, and fostering innovation. GitHub, one of the largest platforms for software development, provides a unique opportunity to study these interactions through its vast
