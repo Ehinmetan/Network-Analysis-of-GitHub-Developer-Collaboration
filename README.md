@@ -16,7 +16,7 @@ I conducted network analysis on GitHub social interactions using Python (Network
 
 - [Discussion](https://github.com/Ehinmetan/Network-Analysis-of-GitHub-Developer-Collaboration/blob/main/README.md#discussion)
 
-- [Implication](https://github.com/Ehinmetan/Network-Analysis-of-GitHub-Developer-Collaboration/blob/main/README.md#implication
+- [Implication](https://github.com/Ehinmetan/Network-Analysis-of-GitHub-Developer-Collaboration/blob/main/README.md#implication)
 
 - [Conclusion](https://github.com/Ehinmetan/Network-Analysis-of-GitHub-Developer-Collaboration/blob/main/README.md#conclusion)
   
