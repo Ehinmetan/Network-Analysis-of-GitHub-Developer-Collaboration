@@ -10,6 +10,8 @@ I conducted network analysis on GitHub social interactions using Python (Network
 
 - [Dataset Structure](https://github.com/Ehinmetan/Network-Analysis-of-GitHub-Developer-Collaboration/blob/main/README.md#dataset-structure)
 
+- [Methodology](https://github.com/Ehinmetan/Network-Analysis-of-GitHub-Developer-Collaboration/blob/main/README.md#methodology)
+
 - 
 # Introduction
 
